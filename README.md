@@ -1,1 +1,1 @@
-This is a clone app of netflix.
+This is an ecommerce website
